@@ -1,8 +1,6 @@
 # 2023_ds210_project
 2023 Spring DS210 Project 
-
-name : Zoe Yuya Tseng
-ID : U42375621
+- Zoe Yuya Tseng (U42375621)
 
 - Contains 1 main.rs file 
 - 1 write up  - DS210 Project write up.pdf
@@ -13,7 +11,6 @@ ID : U42375621
   ii. centrality_functions (containing 3 functions)
   
 - 1 txt data file - cleaned1.txt
-
 
 Cargo Toml: 
 [dependencies]
