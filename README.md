@@ -5,7 +5,7 @@ ID : U42375621
 
 - Contains 1 main.rs file 
 - 1 write up  - DS210 Project write up.pdf
-- 2 module files - 
+- 2 module files :
 
   i. read_txt_to_graph (containing 1 function)
   
