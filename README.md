@@ -1,6 +1,5 @@
 # 2023_ds210_project
 2023 Spring DS210 Project 
-- Zoe Yuya Tseng (U42375621)
 
 - Contains 1 main.rs file 
 - 1 write up  - DS210 Project write up.pdf
