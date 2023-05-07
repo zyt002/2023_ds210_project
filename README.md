@@ -9,7 +9,7 @@
   
   ii. centrality_functions (containing 3 functions)
   
-- 1 txt data file - cleaned1.txt
+- 1 cleaned txt data file - cleaned1.txt 
 
 Cargo Toml: 
 [dependencies]
